@@ -15,6 +15,9 @@ Run the script with:
      python cancer_growth.py
 
 # How It Works
-# Initialization: The tissue is represented as a circular area containing cells. Some cells are randomly set as cancerous at the start.
-# Simulation: Cancerous cells can spread to healthy neighbors within a certain radius, with a probability of spread.
-# Visualization: Healthy cells are displayed in green. Cancerous cells are displayed in red. A time-series graph shows how the number of healthy and cancerous cells changes over time.
+# Initialization: 
+The tissue is represented as a circular area containing cells. Some cells are randomly set as cancerous at the start.
+# Simulation: 
+Cancerous cells can spread to healthy neighbors within a certain radius, with a probability of spread.
+# Visualization: 
+Healthy cells are displayed in green. Cancerous cells are displayed in red. A time-series graph shows how the number of healthy and cancerous cells changes over time.
